@@ -1,5 +1,5 @@
 /* =========================================================
-   STORYMINT — BIRTHDAY LETTER
+   Awakenedarpit— BIRTHDAY LETTER
    ---------------------------------------------------------
    EDIT EVERYTHING HERE.
    This page has no editable fields on the page itself —
@@ -11,10 +11,10 @@
 const CONFIG = {
 
   // Dayy of the month being celebrated (1–31)
-  day: 5,
+  day: 13,
 
   // The birthday person's name, shown on the memory wall and letter
-  name: "SHIVANI",
+  name: "MAHIMA",
 
   // The letter message. Use \n for line breaks.
   message:
